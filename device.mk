@@ -526,3 +526,7 @@ PRODUCT_PACKAGES += \
 	libnl \
 	libaacwrapper \
 	libwfdaac
+
+#GoogleCamera
+PRODUCT_PACKAGES += \
+    GoogleCamera
