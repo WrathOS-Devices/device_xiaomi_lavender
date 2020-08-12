@@ -35,3 +35,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 #Wrath Stuff
 WRATH_BUILD_TYPE := Official
+WRATH_MAINTAINER := Alien

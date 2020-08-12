@@ -37,6 +37,3 @@ persist.radio.videopause.mode=1
 persist.data.iwlan.enable=true
 persist.radio.VT_HYBRID_ENABLE=1
 
-# Wrath Stuff
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.wrath.maintainer=Alien
